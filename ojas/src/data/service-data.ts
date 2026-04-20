@@ -472,7 +472,7 @@ export const serviceData: ServiceData = {
       {
         name: "Body Sculpting",
         img_url: "/service/others/sculpting.jpeg",
-        price_range: "$100 | 30 min",
+        price_range: "$100 | 60 min",
         description:
           "Using HI-EMT (High-Intensity Focused Electro-Magnetic Technology) technology can continuously expand and contract your muscles, which is equivalently to extreme training, which can deeply reshape the internal structure of the muscles, and the myofibrils grow (the muscles will grow). Produce new protein chains and muscle fibers (muscle hyperplasia), thereby increasing muscle density and volume.",
         benefits: [
@@ -486,10 +486,10 @@ export const serviceData: ServiceData = {
       },
 
       {
-        name: "Alpha Oxylight LED Pod",
+        name: "Alpha Oxylight LED Sauna",
         img_url: "/service/others/alpha.jpeg",
-        price_range: "$100 | 30 min",
-        description: `Pure oxygen LED pod creates a new category of holistic body treatments and improves targeted results by 50% - 200% via the various combinations of LED light, oxygen, and heat energies for: chronic fatigue syndrome, fibromyalgia, sleep/insomnia, seasonal affective disorder, pain relief - chronic or acute, increased circulation, vitamin d, detoxification/cellulite, cleansing/balancing, relaxation/stress reduction, meditation/calming, energy/revitalize, skin care, weight loss/metabolism, weight management, immune system boost, full body oxygenation, color therapy, aromatherapy, body wrap, clarity/harmony.`,
+        price_range: "$98 | 60 min",
+        description: `Pure oxygen LED sauna creates a new category of holistic body treatments and improves targeted results by 50% - 200% via the various combinations of LED light, oxygen, and heat energies for: chronic fatigue syndrome, fibromyalgia, sleep/insomnia, seasonal affective disorder, pain relief - chronic or acute, increased circulation, vitamin d, detoxification/cellulite, cleansing/balancing, relaxation/stress reduction, meditation/calming, energy/revitalize, skin care, weight loss/metabolism, weight management, immune system boost, full body oxygenation, color therapy, aromatherapy, body wrap, clarity/harmony.`,
       },
     ],
   },
